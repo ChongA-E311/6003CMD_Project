@@ -1,0 +1,944 @@
+
+=== Testing map 0 ===
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You can build a map of the place as you explore it.
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The map of the place should be on the left side of it.
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: The map is for the goal tile.
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The tile directly to your right is a goal tile.
+=================================================
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile indirectly to you CAN
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to the left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - left: tile direct to you CAN move
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly to your left - right: tile direct to you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile indirectly to the left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: a tile indirectly to you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You can use the map to explore the place.
+Unknown response, no movement
+LLM response: The map will take you to the goal tile.
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile indirectly to the left.
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You can move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left
+=================================================
+LLM response: Ahead: the tile directly to your left - left: wall
+=================================================
+LLM response: Ahead: the tile directly in front of you. 6.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly in front of you. 6.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: The tile directly to your right is the tile indirectly to the left.
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your right.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You can move onto floor and goal tiles by using the most optimal sequence of moves.**
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile indirectly to the left.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you /
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is a goal tile.
+=================================================
+LLM response: The tile directly to your right is a map of the place.
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your left is the tile indirectly to the right.
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your right.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile indirectly to the right
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+
+=== Testing map 1 ===
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+
+=== Testing map 2 ===
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The map of the place is mapped by a navigation agent.
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the left
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is a map of the place.
+=================================================
+LLM response: Ahead
+=================================================
+
+=== Testing map 3 ===
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The map is on the right side of the wall.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: a goal tile directs
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The path to the goal tile must be in front of you.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The map should be at least 3 feet wide.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your right is a map of the place.
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: You can build a map of the place as you explore it.**
+Unknown response, no movement
+LLM response: You can build a map of the place as you explore it.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right of you.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: you CAN move onto floor
+=================================================
+LLM response: Ahead: the tile directly to your right
+=================================================
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right.
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly in front of you.
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile indirectly to the left
+=================================================
+LLM response: Ahead: tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is a map of the place.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: tile directly in front of you
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - right: tile direct to you CAN move
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: You can move onto floor and goal tiles.**
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile directly to your right.
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The path you move towards is the "goal tile".
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to the left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: The tile directly to your left is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: tile direct to you CAN
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is a goal tile.
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - left: tile direct to you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to the right
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left - Aside: a tile direct to the
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left - right: tile direct to you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The map will be built into your working memory.
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly in front of you.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: The tile directly to your right is a goal tile.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The map should be in your working memory.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the right.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: your tile direct to you 
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly to your left - right: tile direct to you
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly to your left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor and goal tiles
+Unknown response, no movement
+LLM response: The tile directly to your right is the tile direct to you.
+=================================================
+LLM response: Ahead: the tile directly to your left - Aside: a goal tile indirectly to
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor and goal tiles
+Unknown response, no movement
+LLM response: Move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: The tile directly to your left is the tile direct to you.
+=================================================
+LLM response: You can move onto floor and goal tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================

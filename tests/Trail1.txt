@@ -1,0 +1,1536 @@
+
+=== Testing map 0 ===
+LLM response: Left
+=================================================
+LLM response: The environment is 2D grid-based. Your ultimate mission is to reach the "goal tile
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Place the goal tile on the left side of the wall.
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The tile is directly to your right.
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: The tile is directly on the floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You can move onto floor tiles.
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: The tile is directly to your right.
+=================================================
+LLM response: The path you want to move toward is directly below the wall.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You can move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is the front.
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world.
+Unknown response, no movement
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead: the tile directly in front of you. 6.
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You can move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You can move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Right
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is 2D grid-based. Your ultimate mission is to reach the "goal tile
+Unknown response, no movement
+LLM response: Place the goal tile on the left side of the map.
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You can find the goal tile at the top of the map.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Place the goal tile on the left side of the map.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: The map will be mapped to the goal tile.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Right: empty
+=================================================
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+
+=== Testing map 1 ===
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+
+=== Testing map 2 ===
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The map is the location of the goal.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you.
+=================================================
+
+=== Testing map 3 ===
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead is the tile directly in front of you.
+=================================================
+LLM response: Left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Right
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The environment is 2D grid-based.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Place the tile on the left side of the map.
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is in front of you.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The environment is 2D grid-based. Your ultimate mission is to reach the "goal tile
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You can move onto floor tiles.
+Unknown response, no movement
+LLM response: The environment is cold.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Place the goal tile onto the floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is in the middle of a 2D grid-based world.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The environment is the "goal tile".
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You can find the "goal tile" in the environment.**
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Place the goal tile on the map.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Right
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The environment is cold.
+Unknown response, no movement
+LLM response: Place the goal tile in front of you.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Place the goal tile on the floor.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The map is a map of the place.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Place the goal tile in front of you.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The environment is the area where you want to explore.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile is directly to your left.
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Place the goal tile on the left side of the map.
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The environment is the front and the center of the wall.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The map is a map of the place.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The path is the "goal tile" that you want to explore.
+Unknown response, no movement
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You can move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Places where you can explore are: Front, Left, and right.
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The tile is empty.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The goal tile is located on the left side of the wall.
+=================================================
+LLM response: The tile is directly to your left.
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The path is the center of the map.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Forward
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: The map will be in a circle.
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The tile is directly to your left.
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: The map is located in the center of the space.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead: the tile directly in front of you. 4. Select a path to move toward.
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The environment is the center of the map.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You can move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: Place the goal tile into the "goal tile" path.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The map is a map of the place.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you.
+=================================================
+LLM response: Move towards the goal tile.
+Unknown response, no movement
+LLM response: Move toward the goal tile.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The environment is a 2D grid-based world. Your ultimate mission is to reach the "
+Unknown response, no movement
+LLM response: The environment is cold.
+Unknown response, no movement
+LLM response: The map is in the center of the map.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The map is in the direction of the goal tile.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The map is an incredibly useful resource for navigation.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The tile will be empty.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: The map is a map of the place.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: The tile is directly in front of you.
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: The environment is 2D grid-based. The goal tile is the shortest path in the map
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Left
+=================================================
+LLM response: Right
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The tile is directly to your right.
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The map shows the location of the goal tile.
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Ahead: the tile directly in front of you
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: The tile directly to your right is the tile direct to the left.
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: Left
+=================================================
+LLM response: Ahead
+=================================================
+LLM response: Right
+=================================================
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: The environment is 2D.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Right
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Left
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: Move onto floor tiles.
+Unknown response, no movement
+LLM response: You CANNOT enter wall tiles
+Unknown response, no movement
+LLM response: Ahead is the tile directly to your right.
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: You CAN move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Move onto floor tiles
+Unknown response, no movement
+LLM response: Ahead
+=================================================
